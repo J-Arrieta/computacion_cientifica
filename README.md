@@ -1,4 +1,4 @@
-<img align="left" src="img/logo-ucm.png" width="25%"> <br><br>
+<img align="left" src="img/logo-ucm.png" width="25%"> <br><br><br><br>
 
 # Curso Computación Científica
 
