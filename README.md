@@ -24,3 +24,11 @@ en la [Universidad Católica del Maule](www.ucm.cl).
       </a>
     </div>
 </div>
+
+----
+
+### Tabla de contenido
+
+1. [Introducción al curso](00_Intro.ipynb)
+2. [Introducción al Sistema Operativo Unix](01_Intro_Unix.ipynb)
+
