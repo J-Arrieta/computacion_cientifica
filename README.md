@@ -34,4 +34,5 @@ en la [Universidad Católica del Maule](www.ucm.cl).
 3. [Introducción a Python para la Investigación](02_Intro_Python.ipynb)
 4. [Sintaxis Básica de Python: Extructuras de Control](03_Sintaxis_basica-II-Estructuras-control.ipynb)
 5. [Sintaxis Básica de Python: Funciones y Librerías](04_Sintaxis_basica-III-Funciones-Librerias.ipynb)
+6. [Manejo de Arrays y Matrices con NumPy](05_Arreglo-Matrices_NumPy.ipynb)
 
