@@ -31,4 +31,5 @@ en la [Universidad Católica del Maule](www.ucm.cl).
 
 1. [Introducción al curso](00_Intro.ipynb)
 2. [Introducción al Sistema Operativo Unix](01_Intro_Unix.ipynb)
+3. [Introducción a Python para la Investigación](02_Intro_Python.ipynb)
 
