@@ -27,14 +27,21 @@ en la [Universidad Católica del Maule](www.ucm.cl).
 
 ----
 
-### Tabla de contenido
+### Tabla de contenido: Parte 1
 
-1. [Introducción al curso](00_Intro.ipynb)
-2. [Introducción al Sistema Operativo Unix](01_Intro_Unix.ipynb)
-3. [Introducción a Python para la Investigación](02_Intro_Python.ipynb)
-4. [Sintaxis Básica de Python: Extructuras de Control](03_Sintaxis_basica-II-Estructuras-control.ipynb)
-5. [Sintaxis Básica de Python: Funciones y Librerías](04_Sintaxis_basica-III-Funciones-Librerias.ipynb)
-6. [Manejo de Arrays y Matrices con NumPy](05_Arreglo-Matrices_NumPy.ipynb)
-7. [Práctica I](06_Sesion_Practica-I.ipynb)
-8. [Práctica II](07_Sesion_Practica-II.ipynb)
-9. [Continuar Aprendiendo](08_Continuar_aprendiendo.ipynb)
+1. [Introducción al curso](CC1.00_Intro.ipynb)
+2. [Introducción al Sistema Operativo Unix](CC1.01_Intro_Unix.ipynb)
+3. [Introducción a Python para la Investigación](CC1.02_Intro_Python.ipynb)
+4. [Sintaxis Básica de Python: Extructuras de Control](CC1.03_Sintaxis_basica-II-Estructuras-control.ipynb)
+5. [Sintaxis Básica de Python: Funciones y Librerías](CC1.04_Sintaxis_basica-III-Funciones-Librerias.ipynb)
+6. [Manejo de Arrays y Matrices con NumPy](CC1.05_Arreglo-Matrices_NumPy.ipynb)
+7. [Práctica I](CC1.06_Sesion_Practica-I.ipynb)
+8. [Práctica II](CC1.07_Sesion_Practica-II.ipynb)
+9. [Continuar Aprendiendo](CC1.08_Continuar_aprendiendo.ipynb)
+
+----
+
+### Tabla de contenido: Parte 2
+
+1. [Introducción al curso](CC2.00_Intro.ipynb)
+2. [Introducción a POO en Python](CC2.01_Intro-POO.ipynb)
