@@ -46,3 +46,5 @@ en la [Universidad Católica del Maule](www.ucm.cl).
 1. [Introducción al curso](CC2.00_Intro.ipynb)
 2. [Introducción a POO en Python](CC2.01_Intro-POO.ipynb)
 3. [Recursividad](CC2.02_Recursividad.ipynb)
+4. [Estructura de datos avanzadas](CC2.03_Estructura-Datos.pptx)
+
