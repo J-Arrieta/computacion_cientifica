@@ -47,4 +47,6 @@ en la [Universidad Católica del Maule](www.ucm.cl).
 2. [Introducción a POO en Python](CC2.01_Intro-POO.ipynb)
 3. [Recursividad](CC2.02_Recursividad.ipynb)
 4. [Estructura de datos avanzadas](CC2.03_Estructura-Datos.pptx)
+5. [Visualización de datos con Matplotlib](CC2.04_Visualizacion-Matplotlib.ipynb)
+6. [Otras herramientas de visualización en Python](CC2.05_Extra-Visualizacion.ipynb)
 
